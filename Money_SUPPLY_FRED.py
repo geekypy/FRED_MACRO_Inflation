@@ -4,8 +4,6 @@ import sys ,os , requests
 import time, json
 import matplotlib.pyplot as plt
 
-# Intellectual property of codenthusiast.com
-# visit us @ codenthusiast,com
 # This library retrieves and relies on data coming from FRED API
 # Attributes
 
